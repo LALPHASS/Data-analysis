@@ -2,6 +2,11 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Projects](#Projects)
+* [Wine-Quality-Prediction](#Wine-Quality-Prediction)
+* [Youtube Comment Scraping](#Youtube-Comment-Scraping)
+
+
 
 ## General info
 This directory contains various data analysis projects using the python programming language.
